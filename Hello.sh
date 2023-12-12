@@ -7,4 +7,4 @@ ls
 java --version
 jenkins --version
 git --version
-
+echo " above you can see all version "
